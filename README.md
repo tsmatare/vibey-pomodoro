@@ -2,7 +2,7 @@
 
 A minimal focus timer. My first experiment in a completely AI-generated project, built entirely through conversation with Claude.
 
-**Live:** [your-site.netlify.app](https://your-site.netlify.app)
+**Live:** [tsm-pomodoro.netlify.app](https://tsm-pomodoro.netlify.app/)
 
 ---
 
