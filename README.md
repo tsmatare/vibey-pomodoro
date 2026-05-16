@@ -1,8 +1,15 @@
-# Flow — Pomodoro & Flow State Timer
+# Pomodoro timer (Vibecoding Experiment - Using Claude Chat)
 
-A minimal focus timer. My first experiment in a completely AI-generated project, built entirely through conversation with Claude.
+I (well technically Claude...) made a minimal focus timer. I was bored and decided to make my first completely AI-generated project, built  through conversation with Claude. I didn't touch any code, it felt super weird haha. I know, I know, late to the AI party, but to be fair I have been using copilot but I've never done a 100% AI code project.
 
-**Live:** [tsm-pomodoro.netlify.app](https://tsm-pomodoro.netlify.app/)
+I deployed it on Netlify, felt empty and then pulled it down lol but it was a successful experiment, less than 30 min cumulative time spent on development + deployment. I remember learning how to write HTML and JS when I was 14 and it was handwritten in Notepad, I didn't even use an IDE back then. Fast forward to now, I create a prompt on my phone, go back and forth a bit with Claude to polish it up and then use Netlify to publish it. Pretty cool seeing how far tech has come. 
+
+I think it's actually awesome though, that creating and publishing sites is now almost frictionless with modern tools. For now, I'll stick to Copilot + AI chats for more serious projects and for quick one page site prototypes and testing ideas I'll use the 100% AI code. 
+
+Next up on my bucket list is testing Claude Code, I know, I know, I have alot of catching up to do lol, but it seems like its the pinnacle of vibe coding now, rather than pasting from a chat lol
+
+Anyways, I take no responsibility for the code, it's purely AI generated lol, so the code is offered in an as is condition. 
+That's it from me, the rest of the readme is AI generated as you'll probably be able to tell from the writing style lol...
 
 ---
 
@@ -57,4 +64,3 @@ Just serve `index.html` as a static file. No build step needed.
 ## License
 
 MIT — do whatever you want with it.
-
