@@ -1,6 +1,6 @@
 # Flow — Pomodoro & Flow State Timer
 
-A minimal focus timer. My first 100% AI-generated project, built entirely through conversation with Claude.
+A minimal focus timer. My first experiment in a completely AI-generated project, built entirely through conversation with Claude.
 
 **Live:** [your-site.netlify.app](https://your-site.netlify.app)
 
@@ -58,6 +58,3 @@ Just serve `index.html` as a static file. No build step needed.
 
 MIT — do whatever you want with it.
 
----
-
-*Built with Claude (Anthropic). Prompt-to-prod.*
